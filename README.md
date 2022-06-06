@@ -1,1 +1,2 @@
-# page
+# Narita Taishin
+![taishin](./taishin.png)
